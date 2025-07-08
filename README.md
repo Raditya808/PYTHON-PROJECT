@@ -1,2 +1,3 @@
 # PYTHON-PROJECT
-Repo Perhitungan Menggunakan Python
+Repo isi project perhitungan / dll menggunakan bahasa pemograman python 
+
